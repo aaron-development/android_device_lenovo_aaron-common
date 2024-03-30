@@ -1,0 +1,1 @@
+# Common device tree for Lenovo aaron devices
